@@ -22,7 +22,7 @@ Para nossos parceiros(estacionamentos) buscamos propor uma experiência única, 
 
 --------------------------------------------------------------------------------
 
-  #INSTRUÇÕES GERAIS
+  ## INSTRUÇÕES GERAIS
 
 - Realize a instalação em seu Sistema Operacional dos requisitos citados acima;
 - Realizar as configurações do Xammp corretamente (Caso não saiba como realizar essa instrução, basta pesquisar no Youtube)
